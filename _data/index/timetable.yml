@@ -1,0 +1,92 @@
+# schedules section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Welcome Remarks 
+  desc:
+    detail: 
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Oct. 19, 8:30am-8:40am (HST)
+  icon: fa-microphone
+
+- name: 
+    detail: Keynote 1
+  desc:
+    title: What do we really need from an instance model?
+    detail: <a href="https://beerys.github.io/">Sara Beery</a>
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Oct. 19, 8:40am-9:10am (HST)
+  icon: fa-microphone 
+
+- name:
+    detail: Oral session - long papers
+  desc:
+    detail1: Please go to _includes/sections/timetable.html
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct. 19, 9:10am-9:35am (HST)
+  icon: fa-microphone 
+
+- name: 
+    detail: Keynote 2
+  desc:
+    title: Robust general visual object tracking in the presence of distractors
+    detail: <a href="https://www.vicos.si/people/matej_kristan/">Matej Kristan</a>
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Oct. 19, 9:35am-10:05am (HST)
+  icon: fa-microphone 
+
+- name:
+    detail: Poster session & Coffee break
+  desc:
+    detail: 
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Oct. 19, 10:05am-11:15am (HST)
+  icon:
+
+- name:
+    detail: Oral Session - Invited papers
+  desc:
+    detail2: Please go to _includes/sections/timetable.html 
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct. 19, 11:15am-11:55am (HST)
+  icon: fa-microphone 
+
+- name:
+    detail: Keynote 3
+  desc:
+    detail: <a href="https://markboss.me/">Mark Boss</a>
+    title1: No Two Alike
+    video: 
+    slides: 
+    host: 
+  date:
+    detail: Oct. 19, 11:55am-12:25pm (HST)
+  icon: fa-microphone 
+
+- name:
+    detail: Closing Remarks  
+  desc:
+    detail: 
+    video: 
+    slides: 
+    host:
+  date:
+    detail: Oct. 19, 12:25pm-12:30pm (HST)
+  icon: fa-microphone 
