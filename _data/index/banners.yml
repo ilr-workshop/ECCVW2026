@@ -2,5 +2,7 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/ECCV_2026_1.png
+- src: landing/ECCV_2026_3.png
+  title: ECCV_2026
+- src: landing/ECCV_2026_2.png
   title: ECCV_2026
