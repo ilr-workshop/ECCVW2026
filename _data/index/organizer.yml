@@ -13,9 +13,9 @@
 
 - last_name: Kaifeng
   first_name: Chen
-  desc: Google DeepMind
+  desc: xAI
   website: https://scholar.google.com/citations?user=xjEcoNQAAAAJ&hl=en
-  email: francischen@google.com
+  email: kchen@x.ai
 
 - last_name: Ondrej
   first_name: Chum
@@ -25,7 +25,7 @@
 
 - last_name: Noa
   first_name: Garcia
-  desc: Osaka University
+  desc: The University of Osaka
   website: http://noagarciad.com/
   email: noagarcia@ids.osaka-u.ac.jp
 
@@ -46,6 +46,12 @@
   desc: Czech Technical University
   website: http://cmp.felk.cvut.cz/~toliageo/
   email: giorgos.tolias@cmp.felk.cvut.cz
+
+- last_name: Wu
+  first_name: Yankun
+  desc: The University of Osaka
+  website: https://scholar.google.com/citations?user=guTi7RoAAAAJ&hl=en
+  email: yankun@is.ids.osaka-u.ac.jp
 
 - last_name: Hao
   first_name: Yang
