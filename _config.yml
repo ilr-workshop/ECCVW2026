@@ -1,19 +1,19 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: ILR+G 2025
-description: The Official Site of ICCV 2025 Workshop, Instance-Level Recognition and Generation Workshop
+title: ILR+G 2026
+description: The Official Site of ECCV 2026 Workshop, Instance-Level Recognition and Generation Workshop
 keywords: instance-level recognition, instance-level generation, large-scale recognition, particular objects, particular events
 baseurl:  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
-url: https://ilr-workshop.github.io/ICCVW2025/  # url should be 'http://<github_username>.github.io/homepage' as before
+url: https://ilr-workshop.github.io/ECCVW2026/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
-img_path: /ilr-workshop/ICCVW2025/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
+img_path: /ilr-workshop/ECCVW2026/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: ILR+G 2025   # Be used at blog posts' author.
+  name: ILR+G 2026   # Be used at blog posts' author.
   first_name:   # Be used at index page about me section.
-  last_name: ILR+G 2025  # Be used at index page about me section.
+  last_name: ILR+G 2026  # Be used at index page about me section.
   #avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   #github_username: jarrekk  # Leave blank if you don't have now
   #linkedin_id: jarrekk # Leave blank if you don't have now
@@ -23,7 +23,7 @@ author:  # change following line to your infomation.
   #cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   desc: >
-    <p>The main focus of our workshop is on computer vision tasks that operate at instance-level, including both recognition (instance-level recognition - ILR) and generation (instance-level generation - ILG), denoted as ILR+G. More precisely, ILR+G is the task of identifying, comparing, and generating images of specific objects, scenes, or events. </p><p>This year, we expand the scope of our workshop to ILG and the potential synergy between ILG and ILR. We will organize a call for papers, and host keynote talks by renowned speakers and invited paper talks from the main conference.</p><p>The 2025 Instance-Level Recognition and Generation (ILR+G) Workshop is a follow-up of six successful editions of our previous workshops &mdash; the first two having focused only on landmark recognition (<a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy">CVPRW18</span></a>, <a href="https://landmarksworkshop.github.io/CVPRW2019" target="_blank"><span class="navy">CVPRW19</span></a>), the following ones expanding to the domains of artworks and products (<a href="https://ilr-workshop.github.io/ECCVW2020/" target="_blank"><span class="navy">ECCVW20</span></a>, <a href="https://ilr-workshop.github.io/ICCVW2021/" target="_blank"><span class="navy">ICCVW21</span></a>), introducing the universal image embedding problem (<a href="https://ilr-workshop.github.io/ECCVW2022/" target="_blank"><span class="navy">ECCVW22</span></a>), and the latest one introducing a call for papers (<a href="https://ilr-workshop.github.io/ECCVW2024/" target="_blank"><span class="navy">ECCVW24</span></a>).</p>
+    <p>The main focus of our workshop is on computer vision tasks that operate at instance-level, including both recognition (instance-level recognition - ILR) and generation (instance-level generation - ILG), denoted as ILR+G. More precisely, ILR+G is the task of identifying, comparing, and generating images of specific objects, scenes, or events. </p><p>This year, we will organize a call for papers, and host keynote talks by renowned speakers and invited paper talks from the main conference.</p><p>The 2025 Instance-Level Recognition and Generation (ILR+G) Workshop is a follow-up of six successful editions of our previous workshops &mdash; the first two having focused only on landmark recognition (<a href="https://landmarksworkshop.github.io/CVPRW2018" target="_blank"><span class="navy">CVPRW18</span></a>, <a href="https://landmarksworkshop.github.io/CVPRW2019" target="_blank"><span class="navy">CVPRW19</span></a>), the following ones expanding to the domains of artworks and products (<a href="https://ilr-workshop.github.io/ECCVW2020/" target="_blank"><span class="navy">ECCVW20</span></a>, <a href="https://ilr-workshop.github.io/ICCVW2021/" target="_blank"><span class="navy">ICCVW21</span></a>), introducing the universal image embedding problem (<a href="https://ilr-workshop.github.io/ECCVW2022/" target="_blank"><span class="navy">ECCVW22</span></a>, <a href="https://ilr-workshop.github.io/ECCVW2024/" target="_blank"><span class="navy">ECCVW24</span></a>), and the latest one expanding the scope of our workshop to ILG and the potential synergy between ILG and ILR (<a href="https://ilr-workshop.github.io/ICCVW2025/" target="_blank"><span class="navy">ICCVW25</span></a>).</p>
 # comment
   disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
   name: ILR+G
