@@ -2,8 +2,5 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/hawaii1.jpg
-  title: hawaii
-
-- src: landing/hawaii2.jpg
-  title: hawaii
+- src: landing/ECCV_2026_1.png
+  title: ECCV_2026
