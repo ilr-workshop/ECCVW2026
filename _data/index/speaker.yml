@@ -3,29 +3,29 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Sara Beery 
-  url: https://beerys.github.io/
-  i18n: Sara Beery
-  img: /static/assets/img/landing/sara.jpeg
-  desc: Assistant Professor at MIT CSAIL
-  title: What do we really need from an instance model?
+- name: Georgia Gkioxari 
+  url: https://georgiagkioxari.com/
+  i18n: Georgia Gkioxari
+  img: /static/assets/img/landing/georgia.png
+  desc: Caltech
+  title: 
   abstract: 
   bio: 
 
-- name: Matej Kristan
-  url: https://www.vicos.si/people/matej_kristan/
-  i18n: Matej Kristan
-  img: /static/assets/img/landing/matej.png
-  desc: Full professor at the University of Ljubljana
-  title: Robust general visual object tracking in the presence of distractors
+- name: Adam Harley
+  url: https://adamharley.com/
+  i18n: Adam Harley
+  img: /static/assets/img/landing/adam_arley.jpg
+  desc: Meta Reality Labs
+  title: 
   abstract: 
   bio: 
 
-- name: Mark Boss
-  url: https://markboss.me/
-  i18n: Mark Boss
-  img: /static/assets/img/landing/mark.jpg
-  desc: Co-Head of 3D & Image at Stability AI
-  title1: No Two Alike
+- name: Richard Zhang
+  url: https://richzhang.github.io/
+  i18n: Richard Zhang
+  img: /static/assets/img/landing/richard.jpg
+  desc: Adobe Research (TBC)
+  title1: 
   abstract: 
   bio: 
