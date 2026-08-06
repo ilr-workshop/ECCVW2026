@@ -1,2 +1,2 @@
-# ICCVW2025
-The Official Site of the ICCV 2025 Workshop on Instance-Level Recognition and Generation.
+# ECCVW2026
+The Official Site of the ECCV 2026 Workshop on Instance-Level Recognition and Generation.
