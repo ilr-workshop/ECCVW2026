@@ -21,11 +21,11 @@
   abstract: 
   bio: 
 
-# - name: Richard Zhang
-#   url: https://richzhang.github.io/
-#   i18n: Richard Zhang
-#   img: /static/assets/img/landing/richard.jpg
-#   desc: Adobe Research (TBC)
-#   title1: 
-#   abstract: 
-#   bio: 
+- name: Richard Zhang
+  url: https://richzhang.github.io/
+  i18n: Richard Zhang
+  img: /static/assets/img/landing/richard.jpg
+  desc: Adobe Research (TBC)
+  title1: 
+  abstract: 
+  bio: 
