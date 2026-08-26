@@ -3,11 +3,11 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 #
 
-- name: Georgia Gkioxari 
-  url: https://georgiagkioxari.com/
-  i18n: Georgia Gkioxari
-  img: /static/assets/img/landing/georgia.png
-  desc: Caltech
+- name: Benjamin Busam 
+  url: https://scholar.google.com/citations?user=u4rJZwUAAAAJ&hl=de
+  i18n: Benjamin Busam
+  img: /static/assets/img/landing/Benjamin.jpeg
+  desc: Technical University of Munich
   title: 
   abstract: 
   bio: 
@@ -25,7 +25,7 @@
   url: https://richzhang.github.io/
   i18n: Richard Zhang
   img: /static/assets/img/landing/richard.jpg
-  desc: Adobe Research (TBC)
+  desc: Adobe Research
   title1: 
   abstract: 
   bio: 
