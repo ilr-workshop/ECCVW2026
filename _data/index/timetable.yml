@@ -1,92 +1,91 @@
 # schedules section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Welcome Remarks 
+    detail: Welcome remarks
   desc:
-    detail: 
-    video: 
-    slides: 
-    host: 
+    detail:
+    video:
+    slides:
+    host:
   date:
-    detail: Oct. 19, 8:30am-8:40am (HST)
+    detail: Sep. 8, 8:30am-8:40am (CEST)
   icon: fa-microphone
 
-- name: 
+- name:
     detail: Keynote 1
   desc:
-    title: What do we really need from an instance model?
-    detail: <a href="https://beerys.github.io/">Sara Beery</a>
-    video: 
-    slides: 
-    host: 
+    title: Steering Models with Notions of Similarity
+    detail: <a href="https://richzhang.github.io/">Richard Zhang</a>
+    video:
+    slides:
+    host:
   date:
-    detail: Oct. 19, 8:40am-9:10am (HST)
-  icon: fa-microphone 
+    detail: Sep. 8, 8:40am-9:10am (CEST)
+  icon: fa-microphone
 
 - name:
     detail: Oral session - long papers
   desc:
     detail1: Please go to _includes/sections/timetable.html
-    video: 
-    slides: 
+    video:
+    slides:
     host:
   date:
-    detail: Oct. 19, 9:10am-9:35am (HST)
-  icon: fa-microphone 
+    detail: Sep. 8, 9:10am-9:35am (CEST)
+  icon: fa-microphone
 
-- name: 
+- name:
     detail: Keynote 2
   desc:
-    title: Robust general visual object tracking in the presence of distractors
-    detail: <a href="https://www.vicos.si/people/matej_kristan/">Matej Kristan</a>
-    video: 
-    slides: 
-    host: 
+    detail: <a href="https://adamharley.com/">Adam Harley</a>
+    video:
+    slides:
+    host:
   date:
-    detail: Oct. 19, 9:35am-10:05am (HST)
-  icon: fa-microphone 
+    detail: Sep. 8, 9:35am-10:05am (CEST)
+  icon: fa-microphone
 
 - name:
     detail: Poster session & Coffee break
   desc:
-    detail: 
-    video: 
-    slides: 
-    host: 
+    detail:
+    video:
+    slides:
+    host:
   date:
-    detail: Oct. 19, 10:05am-11:15am (HST)
+    detail: Sep. 8, 10:05am-11:15am (CEST)
   icon:
 
 - name:
-    detail: Oral Session - Invited papers
+    detail: Oral session - invited papers
   desc:
-    detail2: Please go to _includes/sections/timetable.html 
-    video: 
-    slides: 
+    detail2: Please go to _includes/sections/timetable.html
+    video:
+    slides:
     host:
   date:
-    detail: Oct. 19, 11:15am-11:55am (HST)
-  icon: fa-microphone 
+    detail: Sep. 8, 11:30am-12:10pm (CEST)
+  icon: fa-microphone
 
 - name:
     detail: Keynote 3
   desc:
-    detail: <a href="https://markboss.me/">Mark Boss</a>
-    title1: No Two Alike
-    video: 
-    slides: 
-    host: 
-  date:
-    detail: Oct. 19, 11:55am-12:25pm (HST)
-  icon: fa-microphone 
-
-- name:
-    detail: Closing Remarks  
-  desc:
-    detail: 
-    video: 
-    slides: 
+    title: Open-World Object Reasoning
+    detail: <a href="https://scholar.google.com/citations?user=u4rJZwUAAAAJ&hl=de">Benjamin Busam</a>
+    video:
+    slides:
     host:
   date:
-    detail: Oct. 19, 12:25pm-12:30pm (HST)
-  icon: fa-microphone 
+    detail: Sep. 8, 12:10pm-12:40pm (CEST)
+  icon: fa-microphone
+
+- name:
+    detail: Closing & Award
+  desc:
+    detail:
+    video:
+    slides:
+    host:
+  date:
+    detail: Sep. 8, 12:40pm-12:45pm (CEST)
+  icon: fa-microphone

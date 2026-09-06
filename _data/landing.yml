@@ -12,11 +12,11 @@
 #   tpl: challenge.html
 #   css: challenge
 
-# - id: Timetable
-#   i18n: nav.Timetable
-#   name: Timetable
-#   tpl: timetable.html
-#   css: timeline
+- id: Timetable
+  i18n: nav.Timetable
+  name: Timetable
+  tpl: timetable.html
+  css: timeline
 
 # - id: Schedule
 #   i18n: nav.schedule
@@ -36,11 +36,11 @@
   tpl: accepted_papers.html
   css: 
 
-# - id: Invited_Papers
-#   i18n: nav.challenge
-#   name: Invited Papers
-#   tpl: invited_papers.html
-#   css: 
+- id: Invited_Papers
+  i18n: nav.challenge
+  name: Invited Papers
+  tpl: invited_papers.html
+  css:
 
 - id: Call_For_Papers
   i18n: nav.challenge

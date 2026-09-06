@@ -2,7 +2,9 @@
 # Add items for each banner image in the carousel
 #
 # Images are expected to be located in `static/assets/img/`.
-- src: landing/ECCV_2026_4.jpeg
-  title: ECCV_2026
-- src: landing/ECCV_2026_2.jpeg
-  title: ECCV_2026
+- src: landing/malmo_lighthouse_sunset.jpg
+  title: Malmö inner harbour at sunset (photo by Jonathan Noack on Unsplash)
+- src: landing/lilla_torg_square.jpg
+  title: Lilla Torg (photo by Martine Mussies on Unsplash)
+- src: landing/lilla_torg_timber_house.jpg
+  title: Lilla Torg (photo by Martine Mussies on Unsplash)
