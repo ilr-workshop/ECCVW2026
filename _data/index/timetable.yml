@@ -37,6 +37,7 @@
 - name:
     detail: Keynote 2
   desc:
+    title: "Getting to the Point: From Instances to Correspondence"
     detail: <a href="https://adamharley.com/">Adam Harley</a>
     video:
     slides:
@@ -54,7 +55,7 @@
     host:
   date:
     detail: Sep. 8, 10:05am-11:15am (CEST)
-  icon:
+  icon: fa-coffee
 
 - name:
     detail: Oral session - invited papers
@@ -71,7 +72,7 @@
     detail: Keynote 3
   desc:
     title: Open-World Object Reasoning
-    detail: <a href="https://scholar.google.com/citations?user=u4rJZwUAAAAJ&hl=de">Benjamin Busam</a>
+    detail: <a href="https://www.professoren.tum.de/en/busam-benjamin">Benjamin Busam</a>
     video:
     slides:
     host:
