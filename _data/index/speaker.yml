@@ -4,7 +4,7 @@
 #
 
 - name: Benjamin Busam 
-  url: https://scholar.google.com/citations?user=u4rJZwUAAAAJ&hl=de
+  url: https://www.professoren.tum.de/en/busam-benjamin
   i18n: Benjamin Busam
   img: /static/assets/img/landing/Benjamin_busam.jpeg
   desc: Technical University of Munich
@@ -17,7 +17,7 @@
   i18n: Adam Harley
   img: /static/assets/img/landing/adam_harley.jpg
   desc: Meta Reality Labs
-  title: 
+  title: "Getting to the Point: From Instances to Correspondence"
   abstract: 
   bio: 
 
